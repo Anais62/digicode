@@ -94,3 +94,4 @@ function reset () {
     tabRandom.push (tab[nbRandom])
     tab.splice(nbRandom,1)
     }
+    // coucou
